@@ -1,0 +1,16 @@
+Class 1.png
+Class 2.png
+spike frequency adaptation.png
+threshold variability.png
+tonic spiking.png
+tonic bursting.png
+mixed mode.png
+DAP.png
+phasic spiking.png
+phasic bursting.png
+integrator.png
+resonator.png
+rebound spike.png
+rebound burst.png
+inhibition-induced spiking.png
+inhibition-induced bursting.png
